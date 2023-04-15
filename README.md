@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### 🔭 I’m currently working on my own MERN Stack project jobvakancy.com, which allow user to see currently posted job by the various company
+<!-- #### 🔭 I’m currently working on my own MERN Stack project jobvakancy.com, which allow user to see currently posted job by the various company -->
 #### 🌱 I’m currently learning React Node and MongoDB
 #### 👯 I’m looking to collaborate on above mentioned technologies
 #### 💬 Ask me about MERN Stack
